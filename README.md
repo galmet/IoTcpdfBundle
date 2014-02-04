@@ -6,11 +6,11 @@ How to Install
 
 Add following lines to your `composer.json` file:
 
-### Symfony 2.3.*
+### Symfony 2.4.*
 
     "require": {
       ...
-      "gonzakpo/tcpdfbundle": "dev-master"
+      "galmet/tcpdfbundle": "dev-master"
     }
 
 Execute:
